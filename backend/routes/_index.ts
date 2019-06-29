@@ -53,5 +53,4 @@ export function initRoutes(app: Express) {
     res.json({ message: 'Hello from an admin endpoint! You need to be authenticated and have a scope of write:messages to see this.' });
   });
 
-
 }

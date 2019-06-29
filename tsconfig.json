@@ -18,5 +18,9 @@
       "dom"
     ],
     "module": "commonjs"
-  }
+  },
+  "include": [
+    "src/**/*.ts",
+    "backend/**/*.ts"
+  ]
 }
